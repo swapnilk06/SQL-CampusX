@@ -23,6 +23,7 @@
 <br>
 
 ### Why SQL so important ?
+
  - **Current industry 80% of company's** (without them of mongoDB, Redis, Elasticsearch) are **SQL base RDBMS database.**
 - That's why SQL is extermely important for software industry.
 - Cloud Technologies & Big Data Technologies are softwares using **SQL integration.**
@@ -39,5 +40,9 @@
 - **Initial understanding of the data** SQL is so powerful.
    - e.g. Values missing, maximum value of column or small level run analysis **we don't need to run data seperate on python, pandas** - **its directly run on database using SQL.**
    - **Initial set of task in machine learning work flow is also do by only using SQL (***we don't  need to required of python***).**
+
+<br>
  
  ### Why you should learn SQL?
+- 40% jobs are demanding to SQL (in Data Scientist, Data Analyst, Data Engineer)
+- 60% jobs in entry-level job mandatory for knowing of SQL
