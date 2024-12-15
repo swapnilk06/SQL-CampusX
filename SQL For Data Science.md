@@ -43,6 +43,22 @@
 
 <br>
  
- ### Why you should learn SQL?
+### Why you should learn SQL?
 - 40% jobs are demanding to SQL (in Data Scientist, Data Analyst, Data Engineer)
 - 60% jobs in entry-level job mandatory for knowing of SQL
+
+### What exactly to learn? ***(Best for Job Interview)***
+- Data manipulation queries
+  - DML Commands : INSERT, SELECT, DELETE, UPDATE, WHERE, ORDER BY
+- SQL Join
+- Subquery and temp tables
+- SQL Cases
+- Stored Procedures and Functions
+- Window Functions
+- Data types
+- Normalization and Denormalization
+- Indexing
+- Query Optimization Practices
+- Schema Design(Creating Databases and Tables)
+
+
