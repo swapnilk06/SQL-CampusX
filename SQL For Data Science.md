@@ -61,4 +61,4 @@
 - Query Optimization Practices
 - Schema Design(Creating Databases and Tables)
 
-
+### Practice
