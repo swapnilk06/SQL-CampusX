@@ -61,4 +61,6 @@
 - Query Optimization Practices
 - Schema Design(Creating Databases and Tables)
 
-### Practice
+### Advice
+- Practice a lot
+- Don't just learn to crack interviews
